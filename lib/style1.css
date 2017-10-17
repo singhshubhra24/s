@@ -1,0 +1,37 @@
+#btn3{
+background:#ece8df;
+border-radius: 5px;
+border: 1px solid  black;
+text-align: center;
+text-decoration: none;
+font-size: 12px;
+margin: 4px 2px;
+display:inline-block;
+min-width: 60px;
+
+}
+#btn2{
+  background:#ece8df;
+  border: 2px solid  #66AAFF;
+  box-shadow:0 0 0 0px white, 0 0 0 1px black;
+  display:inline-block;
+  min-width: 60px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  margin: 4px 2px;
+}
+#btn1{
+background:#ece8df;
+border: 1px solid  black;
+border-radius: 5px;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+margin: 4px 2px;
+}
+.title{
+      background:#152882;
+      color: white;
+}
